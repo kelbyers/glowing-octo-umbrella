@@ -1,0 +1,15 @@
+# ignore vim swap files
+.sw?
+.*.sw?
+.emacs*
+
+# python development artifacts
+.coverage
+*.pyc
+*.egg-info/
+
+# scratch workspace
+scratch/
+
+# Vagrant
+.vagrant/
